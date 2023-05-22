@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "prisma": "^4.14.1"
-  },
-  "dependencies": {
-    "@fastify/cors": "^8.2.1",
-    "@prisma/client": "^4.14.1"
-  }
-}
